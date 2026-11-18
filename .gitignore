@@ -1,0 +1,14 @@
+# Compiled executables and object files
+*.exe
+*.o
+
+# Generated sensor data and temporary files
+*.csv
+*.tmp
+*.log
+
+# Common compiler and editor artifacts
+*.out
+*.dSYM/
+core
+core.*
